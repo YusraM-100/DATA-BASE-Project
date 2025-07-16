@@ -1,0 +1,5 @@
+﻿51,100,7,Full refund if cancellation occurs 7 or more days before departure.
+52,50,3,50% refund if cancellation occurs 3-6 days before departure.
+53,0,1,No refund if cancellation occurs 1-2 days before departure.
+54,75,5,75% refund if cancellation occurs 5-6 days before departure.
+55,90,10,90% refund if cancellation occurs 10 or more days before departure.

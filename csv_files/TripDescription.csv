@@ -1,0 +1,100 @@
+﻿2,1,Cairo,10:00:00.0000000,"Arrival in Cairo, a visit to the famous Egyptian Museum and the Pyramids of Giza for an awe-inspiring experience."
+2,2,Luxor,07:30:00.0000000,"Early morning departure to Luxor, visit the Valley of the Kings and Karnak Temple to explore ancient Egyptian history."
+2,3,Aswan,09:00:00.0000000,"Board a cruise to Aswan, visit the Temple of Philae, and enjoy the Nile River cruise experience."
+2,4,Abu Simbel,05:00:00.0000000,Early morning excursion to Abu Simbel to witness the impressive temples of Ramses II and his queen Nefertari.
+2,5,Cairo,14:00:00.0000000,"Return to Cairo, explore Islamic Cairo, and visit the famous Khan El Khalili Bazaar for souvenirs and local crafts."
+3,1,Mecca,06:00:00.0000000,"Arrival in Mecca, prepare for the Hajj pilgrimage with a tour of the Masjid al-Haram and the Kaaba."
+3,2,Mecca,07:00:00.0000000,Perform the Tawaf around the Kaaba and offer prayers at the Masjid al-Haram.
+3,3,Arafat,08:00:00.0000000,"Travel to Arafat for the day of Arafat, where pilgrims pray and seek forgiveness in preparation for the next rituals."
+3,4,Mina,10:00:00.0000000,Proceed to Mina for the symbolic stoning of the Devil and the sacrifice of an animal in accordance with tradition.
+3,5,Mecca,11:00:00.0000000,Return to Mecca for the final Tawaf of Hajj and a spiritual reflection after completing the pilgrimage rituals.
+4,1,Maldives,09:00:00.0000000,"Arrive in the Maldives, check in to the luxury resort, and relax on the white sandy beaches with crystal-clear water."
+4,2,Maldives,11:00:00.0000000,"Enjoy a guided snorkeling tour of the coral reefs, followed by a romantic sunset cruise on a traditional Maldivian boat."
+4,3,Maldives,07:30:00.0000000,Take a private seaplane ride for a scenic view of the atolls and indulge in a spa treatment by the ocean.
+4,4,Maldives,10:00:00.0000000,Spend the day exploring the underwater world through a glass-bottom boat or scuba diving.
+4,5,Maldives,09:30:00.0000000,Enjoy a leisurely breakfast by the beach followed by a day of relaxation and swimming in the tranquil waters.
+5,1,Nairobi,10:00:00.0000000,"Arrive in Nairobi, take a guided city tour, and visit the Giraffe Center to see endangered giraffes up close."
+5,2,Amboseli National Park,07:00:00.0000000,"Drive to Amboseli National Park for a morning safari, where you will see elephants and enjoy a view of Mount Kilimanjaro."
+5,3,Amboseli National Park,06:30:00.0000000,"Early morning game drive in Amboseli, followed by a visit to a Maasai village to learn about their culture."
+5,4,Masai Mara,10:00:00.0000000,Transfer to Masai Mara for a full day of safari in one of Africas most famous wildlife reserves.
+5,5,Masai Mara,06:00:00.0000000,"Morning game drive in Masai Mara, seeking the Big Five—lion, elephant, buffalo, leopard, and rhino."
+6,1,Phuket,09:00:00.0000000,"Arrive in Phuket, relax at your beach resort, and enjoy the stunning coastal views."
+6,2,Phi Phi Islands,08:00:00.0000000,"Take a boat trip to Phi Phi Islands, snorkeling in crystal-clear waters and exploring hidden coves."
+6,3,Koh Samui,10:00:00.0000000,"Transfer to Koh Samui, visit the Big Buddha Temple, and relax at a luxurious beachfront restaurant."
+6,4,Koh Samui,07:30:00.0000000,Morning yoga session on the beach followed by a visit to a local market for fresh fruits and Thai street food.
+6,5,Bangkok,16:00:00.0000000,"Visit the Grand Palace and Wat Arun, and enjoy the vibrant nightlife of Bangkoks famous Khao San Road."
+7,1,Zurich,10:00:00.0000000,"Arrive in Zurich, explore the city, visit Lake Zurich, and enjoy Swiss chocolates and fondue."
+7,2,Lucerne,08:00:00.0000000,"Travel to Lucerne, walk along the Chapel Bridge, and visit the Lion Monument."
+7,3,Mount Pilatus,09:00:00.0000000,Take a cable car to the summit of Mount Pilatus for panoramic views of the Swiss Alps.
+7,4,Interlaken,12:00:00.0000000,"Arrive in Interlaken, engage in paragliding over the beautiful Swiss countryside and mountains."
+7,5,Grindelwald,07:00:00.0000000,"Travel to Grindelwald, enjoy a scenic train ride and hike to the Eiger Glacier."
+8,1,Orlando,10:00:00.0000000,"Arrive in Orlando, visit Walt Disney World Resort for an introduction to the parks and characters."
+8,2,Orlando,09:00:00.0000000,"Spend the day at Magic Kingdom, enjoying attractions like Space Mountain and the Pirates of the Caribbean."
+8,3,Orlando,11:00:00.0000000,"Explore EPCOT, visiting pavilions dedicated to different countries and experiencing various global cuisines."
+8,4,Orlando,08:00:00.0000000,"Visit Disneys Animal Kingdom, take a safari through the savannah, and enjoy a river ride through the jungle."
+8,5,Orlando,10:00:00.0000000,"Explore Universal Studios, experiencing the thrill rides like the Wizarding World of Harry Potter."
+9,1,Paris,10:00:00.0000000,"Arrive in Paris, take a guided tour of the Eiffel Tower and enjoy lunch at a café with a view of the Seine River."
+9,2,Paris,09:00:00.0000000,"Visit the Louvre Museum, home to art masterpieces like the Mona Lisa and the Venus de Milo."
+9,3,Paris,08:00:00.0000000,"Explore Montmartre, walk up to the Sacré-Cœur Basilica for panoramic views of the city."
+9,4,Paris,10:00:00.0000000,"Visit the Champs-Élysées, take photos at the Arc de Triomphe, and enjoy a delicious pastry at a local bakery."
+9,5,Paris,07:30:00.0000000,Enjoy a Seine River cruise and see the landmarks illuminated at night from the water.
+10,1,Zanzibar,08:30:00.0000000,"Arrive in Zanzibar, explore the historic Stone Town, and enjoy the local spice plantations tour."
+10,2,Zanzibar,07:30:00.0000000,"Visit the beautiful white sand beaches of Nungwi, enjoy snorkeling in the crystal-clear waters."
+10,3,Zanzibar,09:00:00.0000000,"Experience a traditional dhow sailing tour, followed by a seafood lunch on the coast."
+10,4,Zanzibar,10:00:00.0000000,Visit the Jozani Forest to observe the unique red colobus monkeys and stroll through the mangrove swamps.
+10,5,Zanzibar,11:30:00.0000000,"Relax at the beach, indulge in local dishes, and enjoy a cultural dance performance in the evening."
+11,1,Rome,10:00:00.0000000,"Arrive in Rome, visit the Colosseum and Roman Forum to immerse in ancient history."
+11,2,Rome,09:00:00.0000000,"Tour the Vatican Museums, admire the Sistine Chapel, and explore St. Peters Basilica."
+11,3,Rome,08:00:00.0000000,"Stroll through Piazza Navona, visit the Pantheon, and throw a coin into the Trevi Fountain."
+11,4,Rome,07:30:00.0000000,"Take a morning walk through the Trastevere neighborhood, and enjoy traditional Italian breakfast in a local café."
+11,5,Rome,11:00:00.0000000,Visit the Castel Sant Angelo and explore the Castel Sant Angelo museum for panoramic city views.
+12,1,Kyoto,09:00:00.0000000,"Explore the Fushimi Inari Shrine, famous for its thousands of red torii gates. This iconic sight offers a spiritual experience and a great photo opportunity."
+12,2,Kyoto,08:00:00.0000000,"Visit the Kinkaku-ji (Golden Pavilion), known for its stunning Zen garden and its breathtaking golden exterior. The temple’s serene atmosphere is perfect for reflection and relaxation."
+13,1,Osaka,10:00:00.0000000,"Visit the Osaka Castle, offering panoramic views of the city and an insight into Japan’s history. The castle grounds provide a peaceful escape from the city buzz."
+13,2,Osaka,09:30:00.0000000,Explore Dotonbori Street for vibrant nightlife and delicious street food. This area offers an unforgettable sensory experience with neon lights and unique local cuisine.
+14,1,Sydney,08:30:00.0000000,Climb the Sydney Harbour Bridge for breathtaking views of the harbor and the Opera House. This adventure combines fitness with an iconic sightseeing opportunity.
+14,2,Sydney,10:00:00.0000000,"Take a ferry to Manly Beach for a relaxing day by the ocean. The ferry ride offers picturesque views of the harbor, and Manly Beach is perfect for sunbathing and surfing."
+15,1,New York,07:30:00.0000000,"Visit the Empire State Building’s observation deck to see the city’s skyline. It provides a unique perspective of New York, especially at sunrise or sunset."
+15,2,New York,09:00:00.0000000,"Stroll through Central Park, enjoy the green spaces, and perhaps rent a bike or row a boat. This peaceful retreat offers nature amid the hustle and bustle of the city."
+16,1,Paris,08:30:00.0000000,Take a river cruise along the Seine to see landmarks like Notre-Dame and the Eiffel Tower from the water. The cruise provides a romantic view of Paris’ historic architecture.
+16,2,Paris,09:00:00.0000000,Visit the Louvre Museum and marvel at masterpieces like the Mona Lisa. This iconic museum offers a cultural and artistic experience unparalleled worldwide.
+17,1,Rome,10:00:00.0000000,"Explore the Colosseum, one of the greatest symbols of Roman history. Standing inside the amphitheater gives a glimpse of ancient gladiatorial combat and Roman entertainment."
+17,2,Rome,11:00:00.0000000,Take a walk through the Roman Forum to witness the remnants of a once-thriving political and social center. It’s a fascinating historical journey.
+18,1,Dubai,08:00:00.0000000,"Visit the Burj Khalifa, the tallest building in the world, for panoramic views. The observation deck offers an unparalleled experience of Dubai’s modern skyline."
+18,2,Dubai,09:30:00.0000000,"Explore the Dubai Mall, one of the largest shopping malls globally, with unique attractions such as an indoor aquarium. It’s a perfect spot for both shopping and entertainment."
+19,1,Istanbul,10:30:00.0000000,Visit the Hagia Sophia to witness a blend of Byzantine architecture and Islamic artistry. It’s one of the world’s most impressive and historically significant buildings.
+19,2,Istanbul,09:00:00.0000000,"Tour the Grand Bazaar, a bustling market with over 4,000 shops. The bazaar’s vibrant atmosphere and variety of goods make it a must-see cultural experience."
+20,1,Santorini,10:00:00.0000000,"Admire the sunset at Oia, one of the most famous sunset views in the world. This natural spectacle is accompanied by white-washed buildings and beautiful Mediterranean waters."
+20,2,Santorini,08:00:00.0000000,Relax on the black sand beaches of Kamari. The unique volcanic sand and crystal-clear waters provide a serene escape.
+21,1,Prague,09:30:00.0000000,"Explore Prague Castle, one of the largest ancient castles in the world. It offers an intriguing mix of history, culture, and stunning views of the city."
+21,2,Prague,11:00:00.0000000,"Walk across Charles Bridge, a 14th-century bridge adorned with statues of saints. It provides one of the most picturesque views of Prague’s old town."
+22,1,Copenhagen,09:00:00.0000000,"Visit Nyhavn, Copenhagen’s colorful harbor, for a scenic walk along the canal. This area is known for its vibrant architecture and bustling cafés."
+22,2,Copenhagen,10:30:00.0000000,"Explore the Tivoli Gardens, one of the oldest amusement parks in the world. It offers classic rides, gardens, and evening lights that create a magical atmosphere."
+23,1,Vienna,08:00:00.0000000,"Visit the Schönbrunn Palace, a UNESCO World Heritage site with magnificent gardens. It provides an insight into imperial Austrian life and royal history."
+23,2,Vienna,09:30:00.0000000,"Enjoy a classical concert in one of Vienna’s historic concert halls. The city is known for its classical music legacy, making it an ideal destination for music lovers."
+24,1,Barcelona,10:00:00.0000000,"Visit La Sagrada Familia, Antoni Gaudí’s masterpiece. Its unique architecture and towering spires make it an iconic symbol of Barcelona and modernist art."
+24,2,Barcelona,08:00:00.0000000,"Stroll down La Rambla, a lively street in the heart of the city. The street offers street performances, shops, and cafes, making it an essential part of the Barcelona experience."
+25,1,Amsterdam,09:00:00.0000000,Take a canal cruise to see Amsterdam’s picturesque bridges and historic buildings from the water. The boat ride offers a unique and scenic perspective of the city.
+25,2,Amsterdam,10:30:00.0000000,"Visit the Van Gogh Museum, home to the largest collection of Van Gogh’s paintings. It provides a deep dive into the artist’s life and masterpieces."
+26,1,Stockholm,08:30:00.0000000,"Explore the Vasa Museum, which houses a 17th-century warship. It’s an incredible testament to Sweden’s naval history and maritime engineering."
+26,2,Stockholm,09:30:00.0000000,"Visit Gamla Stan, Stockholm’s old town, and wander through narrow medieval streets. This area is rich in history, with charming cafes and boutique shops."
+27,1,Budapest,09:00:00.0000000,"Take a cruise on the Danube River to see the iconic landmarks of Budapest, including the Parliament Building. The city’s stunning architecture is best seen from the water."
+27,2,Budapest,10:30:00.0000000,"Relax at the Széchenyi Thermal Baths, one of the largest spa complexes in Europe. The thermal waters offer a rejuvenating experience in a historic setting."
+28,1,Berlin,09:00:00.0000000,Visit the Berlin Wall Memorial to learn about the city’s Cold War history. It’s a poignant reminder of the divisions that once separated East and West Berlin.
+28,2,Berlin,10:00:00.0000000,"Explore the Brandenburg Gate, an iconic neoclassical monument. It represents the reunification of Germany and is a symbol of peace and unity."
+29,1,London,08:00:00.0000000,"Visit the Tower of London to learn about its rich history, including its role as a royal palace and prison. The Crown Jewels are also housed here, making it a must-see."
+29,2,London,09:30:00.0000000,Take a ride on the London Eye for a bird’s eye view of the city. This giant Ferris wheel offers unique views of landmarks such as the Houses of Parliament and Big Ben.
+30,1,Edinburgh,08:00:00.0000000,"Explore Edinburgh Castle, perched on a volcanic rock. It offers stunning views of the city and fascinating exhibits on Scottish history."
+30,2,Edinburgh,10:00:00.0000000,"Stroll down the Royal Mile, a historic street lined with shops, restaurants, and landmarks. It’s perfect for soaking up the atmosphere of the Scottish capital."
+31,1,Oslo,09:00:00.0000000,Visit the Viking Ship Museum to see well-preserved Viking ships and artifacts. This museum offers a fascinating look into Norway’s Viking past.
+31,2,Oslo,08:30:00.0000000,"Walk through the Vigeland Sculpture Park, showcasing over 200 bronze and granite sculptures. It’s an artistic and tranquil escape within the city."
+32,1,Zurich,10:00:00.0000000,Take a boat ride on Lake Zurich and enjoy panoramic views of the city and surrounding mountains. The serene lake provides a peaceful contrast to the bustling city.
+32,2,Zurich,09:00:00.0000000,"Visit the Swiss National Museum to learn about Swiss cultural history. The museum’s exhibits offer a deep dive into Swiss traditions, art, and history."
+33,1,Helsinki,08:30:00.0000000,"Visit the Suomenlinna Fortress, a UNESCO World Heritage site. The fortress offers panoramic views and a fascinating history of Finland’s military past."
+33,2,Helsinki,09:30:00.0000000,"Explore the modern architecture of the city, including the stunning Temppeliaukio Church, built into solid rock. Helsinki is a city that blends design with nature."
+34,1,Hong Kong,10:00:00.0000000,Take the Ngong Ping 360 cable car for stunning views of the Lantau Island and the Big Buddha. The ride offers a scenic experience with panoramic vistas.
+34,2,Hong Kong,09:30:00.0000000,Visit Victoria Peak for breathtaking views of the city skyline. It’s a perfect spot to take in the hustle and bustle of one of the world’s most dynamic cities.
+35,1,Seoul,10:00:00.0000000,"Explore Gyeongbokgung Palace, the largest of Seoul’s Five Grand Palaces. The architectural beauty and historical significance make it a must-see."
+35,2,Seoul,09:30:00.0000000,"Walk through Bukchon Hanok Village to see traditional Korean houses. The picturesque streets offer a glimpse into Seoul’s past, blending history and modernity."
+36,1,Tokyo,09:00:00.0000000,"Visit the Meiji Shrine, located in a tranquil forested area. It’s one of Tokyo’s most important shrines and offers a peaceful retreat from the city bustle."
+36,2,Tokyo,10:00:00.0000000,"Take a trip to Shibuya Crossing, one of the busiest intersections in the world. It’s a cultural symbol of Tokyo’s vibrant energy and fast-paced lifestyle."
